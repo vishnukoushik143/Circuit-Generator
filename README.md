@@ -1,4 +1,4 @@
-### Circuit Generator
+### Circuit Muse
 
 This is a small project implemented in a notebook to realize the circuits for Foster and Cauer Forms Given the Network Function in Laplace Domain
 
